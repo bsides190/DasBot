@@ -33,7 +33,7 @@ namespace DausBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "";
+            string token = "NzIzOTgzNzgyMjUxNTkzNzY5.Xu5kiA.NdlPaBHeXv5DcZha7HancjCAMtE";
 
 
             _client.Log += _client_Log;
